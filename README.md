@@ -46,13 +46,6 @@ pythondef solve(board):
                 return False
     return True
 
-🎯 Difficulty Levels
-LevelCells RemovedEasy30 cellsMedium40 cellsHard50 cells
-
-👨‍💻 Developer
-Made with ❤️ by Deva
-Department of Computer Science & Engineering
-ANITS — Anil Neerukonda Institute of Technology & Sciences
 
 📄 License
 This project is open source and free to use for educational purposes.
