@@ -45,7 +45,6 @@ pythondef solve(board):
                         board[row][col] = 0
                 return False
     return True
-
-
+    
 📄 License
 This project is open source and free to use for educational purposes.
